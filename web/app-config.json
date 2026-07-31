@@ -1,0 +1,12 @@
+{
+  "appVersion": "4.0.0",
+  "minimumVersion": "4.0.0",
+  "maintenance": false,
+  "maintenanceMessage": "M4X THEME đang bảo trì.",
+  "adminTelegram": "https://t.me/bengtayy",
+  "channelTelegram": "https://t.me/m4xthemestore",
+  "announcement": "Chào mừng bạn đến với M4X THEME 4.0",
+  "donateQr": "assets/donate-qr.jpg",
+  "onlineThemesUrl": "",
+  "onlineConfigUrl": ""
+}
